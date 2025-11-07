@@ -16,6 +16,7 @@ h1 {
 }
 
 img {
-        border-radius: 10px;
-    border: 2px solid black;
+    border: 5px solid black;
+    border-radius: 10px;
+    
 }
