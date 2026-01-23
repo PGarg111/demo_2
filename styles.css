@@ -6,7 +6,8 @@ body {
     color: #fff;
     max-width: 800px;
     margin: 0 auto;
-    background-color: maroon;
+    /* background-color: maroon; */
+    background-color: white;
 }
 
 h1 {
